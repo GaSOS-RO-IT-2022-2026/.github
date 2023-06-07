@@ -1,5 +1,8 @@
-## About us.
-We are students at [Gasos-Ro](https://www.gasos-ro.cz) high school in IT class.
+## About us
+
+We are students of [G+SOŠ Rokycany](https://www.gasos-ro.cz)'s IT field.
+This organisation exists to group our class projects.
 
 ## Disclaimer
-This organisation not directly associated with [Gasos-Ro](https://www.gasos-ro.cz). We are ony students at that school.
+
+This organisation is not directly associated with [GASOS](https://www.gasos-ro.cz). We are only students of this school.
